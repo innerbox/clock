@@ -12,7 +12,6 @@ body {
 main {
     color: white;
     background-color: #81a18a;
-    font-size: 5rem;
+    font-size: 3rem;
     font-family: "JetBrains Mono", monospace;
-    border-radius: 1rem;
 }
