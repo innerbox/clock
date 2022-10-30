@@ -1,2 +1,5 @@
 # clock
- 
+
+-   HTML
+-   CSS
+-   JAVASCRIPT
