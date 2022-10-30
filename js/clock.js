@@ -9,7 +9,7 @@ function showClock() {
 
     clock.innerHTML = `&#128345;${hour}:${minute}:${second}`;
     */
-    const date = moment();
+    const date = moment().tz("Asia/Seoul");
     clock.innerHTML = date.format("YYYY년 MM월 DD일 HH시 mm분 ss초 dddd");
 }
 
